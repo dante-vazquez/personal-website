@@ -10,4 +10,4 @@ Welcome to the repository for my website. In my website you can find information
 
 ## Visit My Website
 
-To explore my website and learn more about me and my work, please visit [My Website](https://www.google.com).
+To explore my website, please visit [My Website](https://www.google.com).
